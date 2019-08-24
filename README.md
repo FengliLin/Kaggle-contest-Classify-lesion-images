@@ -5,4 +5,4 @@ In this project, I build an automated binary classification of skin lesions usin
 1) Features-based classical machine learning methods
 2) Deep Convolutional Neural Network(DCNN) Based methods.
 
-This model reaches 0.44948 private score and 0.42476 score(Matthews correlation coefficient) on the [Kaggle leaderboard](https://www.kaggle.com/c/ima205-challenge-2019/overview), ranking top 40%.
+This model reaches 0.44948 private score and 0.42476 score(Matthews correlation coefficient) on the [Kaggle leaderboard](https://www.kaggle.com/c/ima205-challenge-2019/overview), ranking top 10%.
